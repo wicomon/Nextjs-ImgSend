@@ -1,5 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Datos Generales
 
-## Getting Started
+Aplicacion creada con [Next.js](https://nextjs.org/).
 
-F
+Link de prueba producción [Img-Send](https://img-send-cliente.vercel.app)
+
